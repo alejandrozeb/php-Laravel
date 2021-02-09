@@ -20,6 +20,25 @@
 }
     composer es lo que npm es para nodejs, es un manejador de paquetes que da vida a php
 
+    composer nos ayuda a encontrar los repositorios de los packetes o depedencias que necesitamos
+    https://getcomposer.org/
+    lista de comandos
+    https://packagist.org/
+    puedes buscar las dependencias aqui
+
+    nos da el comando exacto que quermos descargar.
+    ademas podemos ver el github de cada repositorio
+
+    tambien esta laravel como framework
+
+    instalaicion de dependencia de desarrollo
+    composer require --dev phpunit/phpunit
+    instalacion de dependencia de produccion
+    composer require nesbot/carbon
+    podemos ver en composer.json la diferencia entre dev y produccion
+
+    garantizamos que la gestion de paquetes se realice de manera correcta
+
  -->
 
  <?php  /* esta es la etiqueta de inicia de cualquier archivo php */
