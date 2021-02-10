@@ -64,6 +64,27 @@
 
     JSON
     es una formato muy ligero y gran desempeño en comunicacion
+    AUTOLOAD
+    Podemos cargar n cantidad de clases con composer
+
+    con files cargamos archivos con funciones que vamos a utilizar
+
+    classmap cargamos carpetas con clases que se van a utilizar
+    
+    psr-0 utiliza una estructura, a partir de una carpeta
+        debemos escribir las subcarpetas
+
+
+    psr-4 tenemos casi la misma configuracion, igual de la carpeta, usamos este
+
+    composer dump
+
+    en vendoer se genera la carpeta composer con lo nuestros archivos autoload
+
+    cada vez que tengamos nuestros index.php principal debemos usar el autoload para usar composer correctamente.
+    
+
+
  -->
 
  <?php  /* esta es la etiqueta de inicia de cualquier archivo php */
