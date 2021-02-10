@@ -1,0 +1,13 @@
+{
+    "name": "win10/2-2composerconsole",
+    "description": "ejemplo composer",
+    "type": "library",
+    "require": {
+        "nesbot/carbon": "2.x-dev"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "9.5.x-dev"
+    },
+    "license": "MIT",
+    "minimum-stability": "dev"
+}

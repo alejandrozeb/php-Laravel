@@ -39,6 +39,30 @@
 
     garantizamos que la gestion de paquetes se realice de manera correcta
 
+    comandos 
+
+    composer init
+    inicia el asistenete de configuracion
+    package name reconoce el composer
+    description añadimos una descripcion
+    author añadimos nuestro nombre con algun correo
+    minimun stability dev podemos decirle en que ambiente estamos
+    packatype library decimos que vamos a trabajar
+    license MIT es el copyright normal
+
+    seguidamente tenemos que elegir dependencias de produccion buscamos por el nombre carbon
+
+    y veras una lista de dependencias ordenadas en un array basta con escoger una posicion para seleccionar la dependencia
+    elegimos la version si queremos la ultima dejamos en blanco
+    presionamos enter y se repite el ciclo en depedendencias de desarrollo
+    confirmamos el json 
+    y terminamos con un no a la pregunta que si queremos instalar mas
+
+    ejecutamos 
+    composer install 
+    para instalar las depedencias.
+    
+
  -->
 
  <?php  /* esta es la etiqueta de inicia de cualquier archivo php */
