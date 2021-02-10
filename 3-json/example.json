@@ -1,0 +1,11 @@
+{
+    "name": "platzi",
+    "description": "Instituto Online",
+    "courses": {
+        "advance":["PHP","Vuejs"],
+        "basic":["json","html"]
+    },
+    "example": true, 
+    "example2": 2, 
+    "example3": "string" 
+}

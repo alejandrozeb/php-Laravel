@@ -61,8 +61,9 @@
     ejecutamos 
     composer install 
     para instalar las depedencias.
-    
 
+    JSON
+    es una formato muy ligero y gran desempeño en comunicacion
  -->
 
  <?php  /* esta es la etiqueta de inicia de cualquier archivo php */
