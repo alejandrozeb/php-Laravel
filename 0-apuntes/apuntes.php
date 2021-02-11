@@ -83,6 +83,13 @@
 
     cada vez que tengamos nuestros index.php principal debemos usar el autoload para usar composer correctamente.
     
+    comandos composer
+    install     cuando tenemos la configuracion en composer
+    require     cuando queremos agragar una depednedncia a el composer.json
+    remove      desinstala una depedencia
+
+    self-update se actualiza composer
+    update  verifica si existe una actualizacion nueva
 
 
  -->
