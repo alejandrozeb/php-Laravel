@@ -91,6 +91,13 @@
     self-update se actualiza composer
     update  verifica si existe una actualizacion nueva
 
+    composer lock
+    No es recomendable eleiminar este archivo y al hacer un proyecto colaborativo verifica en este archivo la version de cada parte de las depedencias para que se tenga el mismo ambiente de desarrollo
+
+    si nos psan un proyecto basta ubicarse en el directorio de nuestro proyecto y ejecutar 
+    composer install
+
+    
 
  -->
 
