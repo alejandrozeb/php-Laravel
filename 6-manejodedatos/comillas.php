@@ -59,3 +59,12 @@ function getTeacher()
 $teacher = 'italo';
 
 echo "${getTeacher()} enseña PHP";
+/* variables variables expliacacion funcionamiento */
+echo "<br>";
+$a='hola';  //definicio de variable normal
+$$a='mundo';    //se crea $hola y asigna el valor de $hola a $$a
+echo "<br";
+echo $a.$hola;
+echo "<br";
+echo $a.$$a;
+/* el resultado es el mismo  */
