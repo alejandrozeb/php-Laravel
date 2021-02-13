@@ -1,5 +1,5 @@
 {   
-    "name": "alejandro/validacion",
+    "name": "alejandro/validate",
     "description": "Proyecto de Validacion",
     "autoload": {
         "psr-4": {
