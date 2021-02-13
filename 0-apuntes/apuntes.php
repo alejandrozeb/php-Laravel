@@ -97,7 +97,10 @@
     si nos psan un proyecto basta ubicarse en el directorio de nuestro proyecto y ejecutar 
     composer install
 
+    PHPUnit
+    sirve como un entorno de pruebas, la configuracions se realiza en el archivo phpunit.xml
     
+
 
  -->
 
