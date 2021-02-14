@@ -1,1 +1,1 @@
-C:37:"PHPUnit\Runner\DefaultTestResultCache":118:{a:2:{s:7:"defects";a:1:{s:23:"ValidateTest::test_mail";i:4;}s:5:"times";a:1:{s:23:"ValidateTest::test_mail";d:0.005;}}}
+C:37:"PHPUnit\Runner\DefaultTestResultCache":262:{a:2:{s:7:"defects";a:3:{s:23:"ValidateTest::test_mail";i:4;s:24:"ValidateTest::test_email";i:4;s:22:"ValidateTest::test_url";i:4;}s:5:"times";a:3:{s:23:"ValidateTest::test_mail";d:0.005;s:24:"ValidateTest::test_email";d:0.005;s:22:"ValidateTest::test_url";d:0;}}}
