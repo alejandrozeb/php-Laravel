@@ -120,6 +120,20 @@
     Como evitarlo
     Clean code o con codigo limpio con programaacion estructurada con clases y otros paradigmas.
 
+    CODIGO ESPAGUETI--------------------------------------
+    Hace referencia a unplato de espagueti todo esta ahi e imagina sacar todo eso.
+    AL realizar programacion estructurada corremos el reisgo de hacer este tipo de codigo pero la POO viene a resolver este problema.
+    El codigo espagueti significa que tod esta con if o ciclos con bloques de codigo centrandonos en resolver un problema. 
+    Resolver el problema y luego refactorizar.
+    Refactorizar nos vuelve mejroes programadores.
+    algunos problemas es delegar tareas importantes y ejecutarlas con un solo un if.
+    El mantenimiendo es muy importante nuestro codigo debe trabajar por 5 o 10 años.
+    Crea clases que nos permitan modificar pequeños bloqyues de codigo.
+    Escribir buen codigo es partir de la experiencia.
+    en resumen
+    Refactoriza
+    Debemos reemplazar los bloques de codigo con metodos.
+    crea clases
  -->
 
  <?php  /* esta es la etiqueta de inicia de cualquier archivo php */
