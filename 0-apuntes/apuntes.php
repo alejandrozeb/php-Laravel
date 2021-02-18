@@ -111,7 +111,15 @@
     - refactorizar el codigo sin afectar el resultado
     Una deuda tecnica se paga casi siempre al final y puede ocasionar reiniciar el proyecto desde 0
 
-    
+    CODESMELL--------
+    Hace referencia al mal olor del codigo, hace que pierdas el apetito o te hace mal.
+    Pero esto como se reproduce en el codigo es cunaod copiamos codigo de un modulo a otro, tambien puede venir por parte del orden o de la arquitectura.
+    Cuando intentamos crear soluciones a partir de otra,
+    Un ejemplo sera copiar modulos y cambiar un nombre ademas de hacerlo en un solo nivel de abstraccion tambien generamos duplicidad en el codigo que funciona pero apesta.
+    otra caracteristica es que el codigo es horrible de mantener ademas significa que no estamos programando bien.
+    Como evitarlo
+    Clean code o con codigo limpio con programaacion estructurada con clases y otros paradigmas.
+
  -->
 
  <?php  /* esta es la etiqueta de inicia de cualquier archivo php */
