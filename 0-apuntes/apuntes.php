@@ -102,8 +102,16 @@
     
     POO
     es un paradagmi de programacion con un enfoque de flujo de datos.
-    
 
+    Deuda tecnica------------------------------------
+    Esto genera Re-trabajo, creando codigo que funcona pero que esta mal programado y en cualquier momento puede fallar, para reducir el impacto debemos programar mejor.
+    Dejamos cosas para despues y los errores pueden llegar despues de meses.
+    - necesitamos programar con pruebas unittest
+    - documentar el codigo
+    - refactorizar el codigo sin afectar el resultado
+    Una deuda tecnica se paga casi siempre al final y puede ocasionar reiniciar el proyecto desde 0
+
+    
  -->
 
  <?php  /* esta es la etiqueta de inicia de cualquier archivo php */
