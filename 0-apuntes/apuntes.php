@@ -100,7 +100,9 @@
     PHPUnit
     sirve como un entorno de pruebas, la configuracions se realiza en el archivo phpunit.xml
     
-
+    POO
+    es un paradagmi de programacion con un enfoque de flujo de datos.
+    
 
  -->
 
