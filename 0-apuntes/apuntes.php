@@ -137,6 +137,11 @@
     Include nos permite incluir un archivo dentro de otro
     Require hace lo mismo pero nos exige o el codigo no avanzara en su ejecucion
     Require once lo mismo que el require pero solo lo permite una vez si se invoca varias veces sale un error
+    -----------Poo-------------------------
+    Las clases son moldes.
+    Las clases tiene metodos y el enfoque es ver todo como objetos.
+    Creamos clases y a partir de estas creamos objetos claro que tienen caracteristicas especiales.
+    tiene signos o plabras reservadas para la instancia y creacion de objetos.
  -->
 
  <?php  /* esta es la etiqueta de inicia de cualquier archivo php */
