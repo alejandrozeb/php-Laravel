@@ -133,7 +133,10 @@
     en resumen
     Refactoriza
     Debemos reemplazar los bloques de codigo con metodos.
-    crea clases
+    Inclusion de archivos-----------------------------
+    Include nos permite incluir un archivo dentro de otro
+    Require hace lo mismo pero nos exige o el codigo no avanzara en su ejecucion
+    Require once lo mismo que el require pero solo lo permite una vez si se invoca varias veces sale un error
  -->
 
  <?php  /* esta es la etiqueta de inicia de cualquier archivo php */
