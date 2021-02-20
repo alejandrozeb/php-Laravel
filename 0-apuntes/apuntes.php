@@ -165,7 +165,9 @@
     en una bd comentarios de producto y usuario, tabla poliformica
 
     si se comporta de diferentes formas un elemento se dice que es polimorifca.
-    
+
+    un unico elemento que se comporta de diferentes maneras y puede dar como resultado diferentes resultados.
+
 
  -->
 
