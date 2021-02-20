@@ -142,6 +142,10 @@
     Las clases tiene metodos y el enfoque es ver todo como objetos.
     Creamos clases y a partir de estas creamos objetos claro que tienen caracteristicas especiales.
     tiene signos o plabras reservadas para la instancia y creacion de objetos.
+    --------------abstraccion---------
+    Significa aislar o separar por partes los objetos que queramos llevar a codigo:
+    ej mesa tiene madera, patas, tamaño,altura, peso -...
+
  -->
 
  <?php  /* esta es la etiqueta de inicia de cualquier archivo php */
