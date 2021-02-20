@@ -168,6 +168,13 @@
 
     un unico elemento que se comporta de diferentes maneras y puede dar como resultado diferentes resultados.
 
+    -----------HERENCIA------------------------
+    Teensmo una clase madre y una hija
+    si la clase madre tiene 4 metodos la clase hija puede heredarlos como propias.
+    Si la clase madre tiene 4 elementos y la clase hija 5 significa que la clase hija puede llega a tener 9 metodos.
+    Herencia directa.
+    con el encapsulamiento podemos decidir que metodos queremos usar en la clase hija
+
 
  -->
 
