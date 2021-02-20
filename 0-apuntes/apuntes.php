@@ -148,6 +148,17 @@
     -----------------Alcance------------------------
     es cunado definimos la integridad del usuaria
     como password.
+    -----------------Modularidad------------------
+    Facilita el mantenimiento debemos ensar que los programs deben estar en archivos separados no en uno solo.
+    aplica a vista,modulos,controladores.
+    SOn pequeñas piezas de codigo que unidan dan vida a todo el sistema deesarrollado.
+    USer debe tener todo con user
+    Post igualmento solo post
+    El objetico es que en el futuro podamos entender nuestrocodigo.
+    Debemos crear un modulo en cada capa.
+    Si usamos mudularidad podemos mas facil aplicar pruebas.
+    Crear cada modulo como una pieza aislada.
+
  -->
 
  <?php  /* esta es la etiqueta de inicia de cualquier archivo php */
