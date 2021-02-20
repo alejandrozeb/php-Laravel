@@ -158,6 +158,14 @@
     Debemos crear un modulo en cada capa.
     Si usamos mudularidad podemos mas facil aplicar pruebas.
     Crear cada modulo como una pieza aislada.
+    -----------Polimorfismo--------------------
+    Es la caracteristica de POO.
+    significa que un elemento puede comportarse de diferentes formas.
+    
+    en una bd comentarios de producto y usuario, tabla poliformica
+
+    si se comporta de diferentes formas un elemento se dice que es polimorifca.
+    
 
  -->
 
