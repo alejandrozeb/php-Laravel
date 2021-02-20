@@ -145,7 +145,9 @@
     --------------abstraccion---------
     Significa aislar o separar por partes los objetos que queramos llevar a codigo:
     ej mesa tiene madera, patas, tamaño,altura, peso -...
-
+    -----------------Alcance------------------------
+    es cunado definimos la integridad del usuaria
+    como password.
  -->
 
  <?php  /* esta es la etiqueta de inicia de cualquier archivo php */
