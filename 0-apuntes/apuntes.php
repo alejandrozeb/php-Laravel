@@ -174,6 +174,12 @@
     Si la clase madre tiene 4 elementos y la clase hija 5 significa que la clase hija puede llega a tener 9 metodos.
     Herencia directa.
     con el encapsulamiento podemos decidir que metodos queremos usar en la clase hija
+    -------------INTERFACES---------------------------
+    Una interface se desarrolla y se implementa en una clase.
+    al implementar estamos obligados a desarrollar todos los metodos que la interface define 
+    El que se va hacer se define en una interfaz
+    y el como se va hacer y la implementacion en una clase.
+
 
 
  -->
