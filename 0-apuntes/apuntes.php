@@ -179,9 +179,18 @@
     al implementar estamos obligados a desarrollar todos los metodos que la interface define 
     El que se va hacer se define en una interfaz
     y el como se va hacer y la implementacion en una clase.
+    
+    -----------------------PROYECTO--------------------
+    comandos:
+    composer require --dev phpunit/phpunit
+    
+    composer dump 
+    registra la informacion de composer.json
 
+    php vendor/phpunit/phpunit/phpunit
 
-
+    El proyecto esta desarrolladoe n TDD desarrollo guiado con pruebas, de acuerdo a los errores.
+    cuando creemos las clases vamos a pasar la prueba.
  -->
 
  <?php  /* esta es la etiqueta de inicia de cualquier archivo php */
