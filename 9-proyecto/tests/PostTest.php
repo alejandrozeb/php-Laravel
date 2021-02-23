@@ -17,3 +17,8 @@ class PostTest extends TestCase{
     }
 }
 
+/* si pasamos otro tipo de dato no pasamos por el test
+Tambien confirmamos un elemento y añadir doble seguro en el test y en los metodos
+este es el ciclo natural de los test
+
+creo la prueba, creo codigo para pasar esa prueba y luego puedo alterar el codigo sin alterar el resultado de esa prueba*/

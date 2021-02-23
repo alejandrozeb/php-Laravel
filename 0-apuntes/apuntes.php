@@ -191,6 +191,8 @@
 
     El proyecto esta desarrolladoe n TDD desarrollo guiado con pruebas, de acuerdo a los errores.
     cuando creemos las clases vamos a pasar la prueba.
+
+    Debemos guiarnos por los errores dephpunit y no tanto por nuestra logica
  -->
 
  <?php  /* esta es la etiqueta de inicia de cualquier archivo php */
