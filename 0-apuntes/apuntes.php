@@ -193,6 +193,15 @@
     cuando creemos las clases vamos a pasar la prueba.
 
     Debemos guiarnos por los errores dephpunit y no tanto por nuestra logica
+
+    En un index podemos ver el resultado pero con test (phpunit en este caso) nos aseguramos al detalle de cada accion y garantizamos que el sistema funcione de manera correcta.
+
+    Los test permanecen y te dan seguridad al momento de presentar el producto.
+
+    UNa cosa en aprender un lenguaje
+    otra es cosa es progrmacion
+    y otra implementar con un framework
+
  -->
 
  <?php  /* esta es la etiqueta de inicia de cualquier archivo php */
