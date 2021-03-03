@@ -220,6 +220,10 @@
     vendor
     views                   //vistas
 
+    Para realizar el proyecto debes ejecutar 
+    php -S localhost:3000
+    levanta un servidor en el puerto 3000
+    y debes desactivar xammp o wamp
     front controller
     patron de acceso unico a un sistema web
     Creabamos muchos paginas independientes de accesso
@@ -230,6 +234,9 @@
     rutas absolutos usan la raiz y la construyen desde ahi
 
     Nos sirve como un cuello de botella por donde pasan todas nuestras peticiones http
+    Request
+    Es una peticion de un usuario.
+
  -->
 
  <?php  /* esta es la etiqueta de inicia de cualquier archivo php */
