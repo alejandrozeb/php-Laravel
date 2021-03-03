@@ -208,6 +208,19 @@
 
     La especialidad ayuda al estandar al momento de desarrollar en equipo.
 
+    - estrucura de carpetas
+    crearemos un estrucutra parecida a laravel
+
+    app                     //donde se alijo la app
+        http                // controla peticiones
+            controllers     
+        helpers
+    public                  //punto de acceso para el sistema
+        
+    vendor
+    views                   //vistas
+
+    
  -->
 
  <?php  /* esta es la etiqueta de inicia de cualquier archivo php */

@@ -1,0 +1,13 @@
+{
+    "name": "win10/10-frameworks",
+    "description": "Proyecto basico",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        },
+        "files": [
+            "app/helpers.php"
+        ]
+    }
+}
