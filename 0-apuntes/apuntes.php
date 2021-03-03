@@ -201,6 +201,12 @@
     UNa cosa en aprender un lenguaje
     otra es cosa es progrmacion
     y otra implementar con un framework
+    ------------------FRAMEWORKS---------------------
+    Laravel
+    Tienen caracteristicas ya pre hechas de testing y otros
+    Es importante que en un equipo se hable el mismo idioma.
+
+    La especialidad ayuda al estandar al momento de desarrollar en equipo.
 
  -->
 
