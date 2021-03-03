@@ -220,7 +220,16 @@
     vendor
     views                   //vistas
 
-    
+    front controller
+    patron de acceso unico a un sistema web
+    Creabamos muchos paginas independientes de accesso
+    con esto hacemos que iingrese por un punto
+
+    antes se necesitaba incluir todo a cada pagina
+    debemos configurar el index.php de public
+    rutas absolutos usan la raiz y la construyen desde ahi
+
+    Nos sirve como un cuello de botella por donde pasan todas nuestras peticiones http
  -->
 
  <?php  /* esta es la etiqueta de inicia de cualquier archivo php */
