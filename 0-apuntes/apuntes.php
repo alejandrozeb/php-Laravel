@@ -248,6 +248,8 @@
     1 el usuario requeire algo
     usa request carga un controlador hace un response con una vista
 
+        En cualquier framework el flujo es el mismo, no debemos realizar esta configuracion por que ya lo tiene incorporado ademas estan actualizados a nivel de seguridad
+    
  -->
 
  <?php  /* esta es la etiqueta de inicia de cualquier archivo php */
