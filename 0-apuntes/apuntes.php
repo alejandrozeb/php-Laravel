@@ -251,7 +251,7 @@
         En cualquier framework el flujo es el mismo, no debemos realizar esta configuracion por que ya lo tiene incorporado ademas estan actualizados a nivel de seguridad
 
     HELPERS
-    son funciones aisladoas que podemos usar en la vistas y controladores.
+    son funciones aisladoas que podemos usar en la vistas y controladores ademas aislamos codigo repetitivo
     
  -->
 
