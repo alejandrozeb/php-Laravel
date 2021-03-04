@@ -221,7 +221,7 @@
     views                   //vistas
 
     Para realizar el proyecto debes ejecutar 
-    php -S localhost:3000
+            php -S localhost:3000
     levanta un servidor en el puerto 3000
     y debes desactivar xammp o wamp
     front controller
@@ -236,6 +236,17 @@
     Nos sirve como un cuello de botella por donde pasan todas nuestras peticiones http
     Request
     Es una peticion de un usuario.
+
+
+    Response
+    
+    controllador
+    Esta entre el modelo y que queremos visualizar.
+    pero nos lleva a confusiones
+    debemos pensar que un controlador gestiona no procesa los datos.
+
+    1 el usuario requeire algo
+    usa request carga un controlador hace un response con una vista
 
  -->
 
