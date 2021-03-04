@@ -252,7 +252,12 @@
 
     HELPERS
     son funciones aisladoas que podemos usar en la vistas y controladores ademas aislamos codigo repetitivo
-    
+
+    fRAMEWORKS MODERNOS
+    laravel te proporciona un estandar, una estructura inicial que podemos agregar complementos.
+
+    ya se tiene organizado la estructura de carpetas, todo lo complejo se vuelve sencillo de comprender ademas no reinventamos la rueda. ademas estan respaldados por una comunidad a la cual puedes preguntar, el desarrollo en menos tiempo y facilita un trabajo en equipo.
+    Symfony
  -->
 
  <?php  /* esta es la etiqueta de inicia de cualquier archivo php */
