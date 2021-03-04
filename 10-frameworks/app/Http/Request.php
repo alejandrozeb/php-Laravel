@@ -45,8 +45,17 @@ namespace App\Http; //referencia a la carpeta
             new $controller,
             $method
         ]);
-
-        $response->send();
+        try {
+            if($response instanceof Response){
+                $response->send();
+            }else{
+                throw new \Exception("Error Processing Request");
+            }
+            //validamos
+        } catch (\Exception $e) {
+            //throw $th;
+            echo "Details ($e->getMessage())";
+        }
     }
 
  }
